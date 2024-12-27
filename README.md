@@ -1,1 +1,1 @@
-Learning about Git, Github and Version control
+This repository contains Git commands, Github and Version control
